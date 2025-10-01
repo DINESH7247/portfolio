@@ -1,3 +1,4 @@
+// Resume modal logic removed: Resume now opens in a new tab
 // ---
 const hamMenuBtn = document.querySelector('.header__main-ham-menu-cont')
 const smallMenu = document.querySelector('.header__sm-menu')
